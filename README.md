@@ -3,7 +3,7 @@
 
 ## Hey There! I'm Andrew Coleburn.
 ---
-#### About Me
+### About Me
 Shakespearean Actor, turned Management Consultant, turned Software Developer. Quite the combo, I know. 
 
 *Here's the story:* 
@@ -15,12 +15,12 @@ Spending 10 hours a day cold-calling potential job seekers made me realize I wan
 If you're in the market for a Junior Engineer, or if you're looking for a partner on a project, hit me up! Let's work together and build cool stuff.
 
 ----
-#### :black_nib: Writing
+### :black_nib: Writing
 
 I don't only write software, I write other stuff too. Most of that is over on [Medium.](https://arcoleburn.medium.com/)
 
 ---
-#### :hammer: Currently Building
+### :hammer: Currently Building
 
 - BugBook Journal
     - [Server](https://github.com/arcoleburn/bugbook-server)
@@ -31,7 +31,7 @@ I don't only write software, I write other stuff too. Most of that is over on [M
     - :zipper_mouth_face:
 
 ---
-#### :nerd_face: Currently Learning
+### :nerd_face: Currently Learning
 - React  (with hooks!)
 - Styled Components
 - Bootstrap
