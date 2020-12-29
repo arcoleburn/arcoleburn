@@ -35,7 +35,8 @@ I don't only write software, I write other stuff too. Most of that is over on [M
     - [Client](https://github.com/arcoleburn/meet4-client)
     - [Server](https://github.com/arcoleburn/meet4-server)
 
-You can check out my older projects below.
+
+You can check out my older project repos below, like the [Shakespeare Quiz](https://arcoleburn.github.io/ACRSQuizApp/) and [Hippo](https://arcoleburn.github.io/bookmarks-app/).
 
 ---
 ### :nerd_face: Currently Learning
