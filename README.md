@@ -32,6 +32,7 @@ I don't only write software, I write other stuff too. Most of that is over on [M
     - BTC/STO Backtester :shushing_face:
     
 - Meet4
+    - [Live App](https://meet4.xyz)
     - [Client](https://github.com/arcoleburn/meet4-client)
     - [Server](https://github.com/arcoleburn/meet4-server)
 
@@ -45,6 +46,8 @@ You can check out my older project repos below, like the [Shakespeare Quiz](http
 - Bootstrap
 - Express 
 - JavaScript. Always. 
+
+I'm wrapping up my formal studies with Thinkful in a couple weeks! 
 <!--
 **arcoleburn/arcoleburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
