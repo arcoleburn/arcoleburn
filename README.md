@@ -10,9 +10,9 @@ Shakespearean Actor, turned Management Consultant, turned Software Developer. Qu
 
 I'm a former theatre kid who got halfway through an MFA in Acting before deciding against a life in show business. Since then, I've finished a Masters in Theatre, worked as a consultant in NYC, joined a talent-aquisition firm in Raleigh, NC, and found the time to start teaching myself how to code.
 
-Spending 10 hours a day cold-calling potential job seekers made me realize I wanted to do work that resulted in actually making something. So here I am, a student in the Thinkful Engineering Immersion program, on my way to making kick-ass software.
+Spending 10 hours a day cold-calling potential job seekers made me realize I wanted to do work that resulted in actually making something. So I enrolled as a student in the Thinkful Engineering Immersion program, to learn how to make kick-ass software.
 
-If you're in the market for a Junior Engineer, or if you're looking for a partner on a project, hit me up! Let's work together and build cool stuff.
+Currently, I'm working as a Developer and Consultant for Bitovi. 
 
 ----
 ### :black_nib: Writing
@@ -50,7 +50,6 @@ You can check out my older project repos below, like the [Shakespeare Quiz](http
 - Express 
 - JavaScript. Always. 
 
-I'm wrapping up my formal studies with Thinkful in a couple weeks! 
 <!--
 **arcoleburn/arcoleburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
