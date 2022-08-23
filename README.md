@@ -20,7 +20,7 @@ Currently, I'm working as a Developer and Consultant for Bitovi.
 I don't only write software, I write other stuff too. Most of that is over on [Medium.](https://arcoleburn.medium.com/)
 
 ---
-### :hammer: Currently Building
+### :hammer: Personal Projects
 
 - BugBook Journal
     - [Server](https://github.com/arcoleburn/bugbook-server)
@@ -39,10 +39,8 @@ I don't only write software, I write other stuff too. Most of that is over on [M
 - Covid-19 Vaccine Roll Out API
     - [API and Docs](https://github.com/arcoleburn/covid-API)
 
-
-You can check out my older project repos below, like the [Shakespeare Quiz](https://arcoleburn.github.io/ACRSQuizApp/) and [Hippo](https://arcoleburn.github.io/bookmarks-app/).
-
 ---
+<!--
 ### :nerd_face: Currently Learning
 - React  (with hooks!)
 - Styled Components
