@@ -26,6 +26,7 @@ I don't only write software, I write other stuff too. Most of that is over on [M
     - [Server](https://github.com/arcoleburn/bugbook-server)
     - [Client](https://github.com/arcoleburn/bugbook-client)
     - [Live App](https://bugbookjournal.com)
+NOTE: Due to Heroku deprecating their free tier, the live app is currently broken
 
 - 253trades 
     - [Market Calender API](https://github.com/arcoleburn/marketCalendarAPI)
@@ -35,6 +36,7 @@ I don't only write software, I write other stuff too. Most of that is over on [M
     - [Live App](https://meet4.xyz)
     - [Client](https://github.com/arcoleburn/meet4-client)
     - [Server](https://github.com/arcoleburn/meet4-server)
+NOTE: Due to Heroku deprecating their free tier, the live app is currently broken
 
 - Covid-19 Vaccine Roll Out API
     - [API and Docs](https://github.com/arcoleburn/covid-API)
