@@ -12,7 +12,9 @@ I'm a former theatre kid who got halfway through an MFA in Acting before decidin
 
 Spending 10 hours a day cold-calling potential job seekers made me realize I wanted to do work that resulted in actually making something. So I enrolled as a student in the Thinkful Engineering Immersion program, to learn how to make kick-ass software.
 
-Currently, I'm working as a Developer and Consultant for Bitovi. 
+Turns out, I'm pretty good at it. Right after Thinkful, I landed a role as a Developer Consulant at Bitovi, where I've been since. 
+
+At Bitovi, I've focused mostly on frontend development with React-- but don't worry, I stay dangerous across the full stack 😉. I've had the opportunity to work on all kinds of interesting projects, from Fortune 500 brands, to tiny early stage startups, and everything in between. 
 
 ----
 ### :black_nib: Writing
